@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML involving the modification of a div's textContent when it already contains HTML elements.  The solution illustrates the correct approach using innerHTML.
